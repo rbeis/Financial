@@ -7,7 +7,7 @@ import Movements from '../../components/Movements';
 const list = [
   {
     id: 1,
-    label: 'Boleto conta luz',
+    label: 'Conta luz',
     value: "300,90",
     date: "17/09/2022",
     type: 0
